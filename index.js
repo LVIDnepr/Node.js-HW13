@@ -21,7 +21,7 @@ let file = "text.txt";
 	service: 'gmail',
 	auth: {
 		user: '', //введите здесь свой email
-		pass: 'ADEo1988' //введите здесь свой пароль
+		pass: '' //введите здесь свой пароль
 	}
 });
 
